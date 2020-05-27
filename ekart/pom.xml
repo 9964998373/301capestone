@@ -18,4 +18,10 @@
   <build>
     <finalName>ekart</finalName>
   </build>
+  <properties>
+  <sonar.projectKey>9964998373_301capestone</sonar.projectKey>
+  <sonar.organization>githubsonarcloud</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>7dba6f9041f668a3f52410f55582aa9aa2d2b437</sonar.login>
+</properties>
 </project>
